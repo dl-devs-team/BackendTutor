@@ -1,0 +1,15 @@
+.background-green{
+    background: #008080;
+    font-family: Roboto,serif;
+}
+.text-violet{
+    color: violet;
+}
+.text-white{
+    color: white;
+    font-family: "Times New Roman",serif;
+}
+#text-bold{
+    font-weight: bold;
+    font-size: 50px;
+}
